@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(248, 244, 237)
+}
+
+h1{
+    font-size: 40px
+}
+
+banner{
+    width: 13cm;
+    height:auto
+}
+p{
+    text-align:justify
+}
+
+missao{
+    font-size:20px
+}
+
+em strong{
+    color:rgb(17, 17, 228)
+}
